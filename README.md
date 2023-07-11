@@ -1,6 +1,3 @@
-![Screenshot (87)](https://github.com/PureshwarGonekar/Hal-Smart_Township/assets/88015818/ba211b08-fdff-43a2-9be6-c48b8da42b40)
-![Screenshot (88)](https://github.com/PureshwarGonekar/Hal-Smart_Township/assets/88015818/40a9241f-0b85-47b2-88e5-2546a40352b3)
-
 # SMART TOWNSHIP - RESOLVER 
 
 Resolver with Whatsapp like UI built using React.js and Firebase
